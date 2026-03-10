@@ -1,2 +1,2 @@
-# Screen-Loader
+# Screen Loader
 #Animation Squares#
